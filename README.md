@@ -1,4 +1,4 @@
-# Java Lab Assignments
+# Java Lab Assignments (GUI & Class_Object Updated)
 I have only refined the GUI codes. Other codes are old and not refined. I will try to refine this old codes as soon as possible.
 
 ## Note:
