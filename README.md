@@ -1,5 +1,5 @@
 # Java Lab Assignments
-I have only refined the GUI codes. Other codes are old and not refined.
+I have only refined the GUI codes. Other codes are old and not refined. I will try to refine this old codes as soon as possible.
 
 ## Note:
 1. Here you can face package probelm because of directory. So, it is better to copy the code and make same name file then run the code in your local environment
