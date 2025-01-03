@@ -8,11 +8,11 @@ I have only refined the GUI codes. Other codes are old and not refined.
 4. Finally, I want to say that I tried to solve this problems in easy way. But there are many ways to solve a problem. You can choose another way for your code. It's totally up on you.
 
 # Java code compile
-'''bash
+```bash
 javac filename.java
-
+```
 # Java code run
-'''bash
+```bash
 java filename
-
+```
 # Best of Luck guys. I will try to update rest of codes soon.
