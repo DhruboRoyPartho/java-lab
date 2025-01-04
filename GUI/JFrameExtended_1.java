@@ -33,7 +33,7 @@ public class JFrameExtended_1 extends JFrame {
     }
 
     public static void main(String[] args) {
-        // Create an instance of JFrameExample
-        new JFrameExample_1();
+        // Create an instance of JFrameExtended_1 (corrected class name)
+        new JFrameExtended_1();
     }
 }
